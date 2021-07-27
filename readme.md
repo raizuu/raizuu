@@ -1,4 +1,4 @@
-***O mnie:*** 
+****O mnie:**** 
 - 👋 Hej, jestem raizu
 - 💁‍♂️ Mam 12 lat. 
 - 👀 interesuje się programowaniem i informatyką.
