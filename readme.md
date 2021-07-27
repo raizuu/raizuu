@@ -1,14 +1,14 @@
-****O mnie:**** 
+***O mnie:***
 - 👋 Hej, jestem raizu
 - 💁‍♂️ Mam 12 lat. 
 - 👀 interesuje się programowaniem i informatyką.
 - 🌱 Pracuję w językach: C# i Python.
 
-**Kontakt:**
+***Kontakt:***
 - 💎 raizu ;]#1444
 - 📧 hnsmaciollo@gmail.com
 
-**YouTube**
+***YouTube***
 - 🎥 raizu ;]
 
 
