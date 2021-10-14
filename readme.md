@@ -5,11 +5,12 @@
 - 🌱 Pracuję w językach: C#, c++ i Python.
 
 ***Kontakt:***
-- 💎 raizu ;]#1444
+- 💎 raizu#0001
 - 📧 hnsmaciollo@gmail.com
 
 ***YouTube***
 - 🎥 raizu 
+
 
 
 
