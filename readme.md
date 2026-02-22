@@ -6,7 +6,7 @@
   <a href="https://github.com/raizuu?tab=followers">
     <img src="https://img.shields.io/github/followers/raizuu?style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://youtube.com/conaticus?sub_confirmation=1">
+  <a href="">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCdYq1DsGSspw7HqNdTfcLPQ?style=for-the-badge" />
   </a>
 </p>
